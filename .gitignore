@@ -1,5 +1,5 @@
-工具与教学视频
-output
+工具与教学视频/
+output/
 
 # editor / ide configuration
 .idea
@@ -8,7 +8,7 @@ output
 # python
 .cache
 .coverage
-__pycache__
+__pycache__/
 *.pyc
 *.egg-info/
 htmlcov/
