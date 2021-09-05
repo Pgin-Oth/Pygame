@@ -1,13 +1,15 @@
 # 设置 Git
     git config --global user.name "Xiangsu Chen"
-    git config --global user.email xiangsu.chen@apis.de
+    git config --global user.email pgin.oth@gmail.com
 * * *
-# 安装 VSCode 插件
-1. ***Git Graph***
+# 安装与配置 VSCode 插件
+1. ***Settings Sync***
+    * 登陆 GitHub
+    * GistID：c8a35873111e13028bbf829f70d5bec6
+    * Shift+Alt+D 下载 Gist 配置，Shift+Alt+U 上传 Gist 配置。
+2. ***Git Graph***
     * 可视化显示 Git 分支
     * 在这里可以配置 ***<font face="微软雅黑" color=red>user.name</font>*** 和 ***<font color=red>user.email</font>***
-2. Markdown Preview Enhanced
-3. Python Virtual Environment Creator
 ***
 # Windows 中配置 venv
 在终端设置命令执行的路径为当前项目路径，执行以下代码进行部署：
