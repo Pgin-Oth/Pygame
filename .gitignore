@@ -1,2 +1,22 @@
-.venv
 工具与教学视频
+output
+
+# editor / ide configuration
+.idea
+.vscode/
+
+# python
+.cache
+.coverage
+__pycache__
+*.pyc
+*.egg-info/
+htmlcov/
+.tox/
+
+# development
+.vagrant
+
+# virtual environment
+.venv/
+venv/
